@@ -1,1 +1,18 @@
 # yandex-praktikum-repo
+
+## Проекты
+
+| Название проекта| Цель проекта | Инструменты | Сфера деятельности |
+|---------------------------------------|--------------|-------------|---------------------|
+| [Исследование объявлений о продаже квартир](https://github.com/iLvoznyi/yandex-praktikum-repo/blob/main/Исследование%20объявлений%20о%20продаже%20квартир/real%20estate%20analysis.ipynb) | Анализ объявлений о продаже квартир | Pandas, Matplotlib, Seaborn | Недвижимость |
+| [Анализ определяющих успешность компьютерных игр закономерностей](https://github.com/iLvoznyi/yandex-praktikum-repo/blob/main/Анализ%20определяющих%20успешность%20компьютерных%20игр%20закономерностей%20для%20интернет-магазина%20%22Стримчик%22/video%20game%20sales%20analysis.ipynb) | Определение факторов, влияющих на успешность компьютерных игр | Pandas, Matplotlib, Seaborn | Развлечения |
+| [Рекомендация тарифов](https://github.com/iLvoznyi/yandex-praktikum-repo/blob/main/Рекомендация%20тарифов/tariff%20recommendation.ipynb) | Прогнозирование оптимального тарифа для клиентов | Scikit-learn, Pandas | Телекоммуникации |
+| [Отток клиентов](https://github.com/iLvoznyi/yandex-praktikum-repo/blob/main/Отток%20клиентов/customer%20churn%20prediction.ipynb) | Предсказание оттока клиентов | Scikit-learn, Pandas | Телекоммуникации |
+| [Выбор локации для скважины](https://github.com/iLvoznyi/yandex-praktikum-repo/blob/main/Выбор%20локации%20для%20скважины/oil%20well%20location%20selection.ipynb) | Определение наиболее перспективной локации для бурения | Scikit-learn, Pandas | Нефтегазовая промышленность |
+| [Восстановление золота из руды](https://github.com/iLvoznyi/yandex-praktikum-repo/blob/main/Восстановление%20золота%20из%20руды/gold%20recovery%20prediction.ipynb) | Спрогнозировать концентрацию золота при проведении процесса очистки золота | Scikit-learn, Pandas | Горнодобывающая промышленность |
+| [Защита персональных данных клиентов](https://github.com/iLvoznyi/yandex-praktikum-repo/blob/main/Защита%20персональных%20данных%20клиентов/data%20anonymization%20for%20insurance%20company.ipynb) | Анонимизация персональных данных клиентов | Pandas | Страхование |
+| [Определение стоимости автомобилей](https://github.com/iLvoznyi/yandex-praktikum-repo/blob/main/Определение%20стоимости%20автомобилей/car%20price%20prediction.ipynb) | Предсказание стоимости автомобилей | Scikit-learn, Pandas | Автомобильная индустрия |
+| [Прогнозирование заказов такси](https://github.com/iLvoznyi/yandex-praktikum-repo/blob/main/Прогнозирование%20заказов%20такси/taxi%20demand%20forecasting.ipynb) | Прогнозирование спроса на такси | Time Series Analysis, Pandas | Транспорт |
+| [Классификация токсичных комментариев с использованием модели BERT](https://github.com/iLvoznyi/yandex-praktikum-repo/blob/main/Классификация%20токсичных%20комментариев%20с%20использованием%20модели%20BERT/BERT_toxic_comment_classification.ipynb) | Классификация токсичных комментариев | TensorFlow, PyTorch | Социальные медиа |
+| [Определение возраста покупателей с помощью компьютерного зрения](https://github.com/iLvoznyi/yandex-praktikum-repo/blob/main/Определение%20возраста%20покупателей%20с%20помощью%20компьютерного%20зрения/determining%20the%20age%20of%20buyers.ipynb) | Определение возраста покупателей | OpenCV, TensorFlow | Ритейл |
+| [Прогнозирование оттока клиентов в сфере телекоммуникаций](https://github.com/iLvoznyi/yandex-praktikum-repo/blob/main/Прогнозирование%20оттока%20клиентов%20в%20сфере%20телекоммуникаций/model%20for%20predicting%20the%20outflow%20of%20telecom%20operator%20customers.ipynb) | Прогнозирование оттока клиентов | Scikit-learn, Pandas | Телекоммуникации |
